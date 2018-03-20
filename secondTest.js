@@ -1,3 +1,5 @@
+//counting and concatination 
+
 console.log("It's alive!");
 
 let i = 1
