@@ -1,5 +1,6 @@
 console.log("It's working!");
 
+let count = 0;
 let a = "Fizz";
 let b = "Buzz";
 
